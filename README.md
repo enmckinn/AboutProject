@@ -17,7 +17,7 @@ The purpose of this project is to give the audience an brief overview of the exp
 ###Scope of Work
 1. Wireframe 
 2. Content 
-3. HTML/CSS
-4. 
-5. 
+3. Mock Up
+4. HTML/CSS
+5. Interaction
 
