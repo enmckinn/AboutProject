@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* CSS Document */
+
+main {font-family: arial, helvetica, sans-serif;
+width:1000px;
+}
+#menu
+{display:inline-block;
+padding:0;
+margin: 0 0 0 225px;
+color:#fff;
+white-space:nowrap;
+}
+#menu li {display: inline-block;
+}
+#menu li a
+{display:table;
+padding:0.2em 1em;
+background-color:purple;
+color:silver;
+text-decoration:none;
+}
+#menu li a:hover
+{
+background:#08c;
+color:#fff;
+}
+#banner {background-color:purple;
+color:silver;
+width:800px;
+text-align:center;
+}
+#intro {
+background-color:silver;
+padding:1em;
+width: 800px;
+}
+
+}
+section {
+background-color:#f2eee2;
+padding:1em;
+}
+
+
