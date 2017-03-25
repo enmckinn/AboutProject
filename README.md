@@ -1,4 +1,4 @@
-## Epic Statement or Portfolio Project
+## Epic Statement of Portfolio Project
 At the end of the project, the website will be a portrayal of skills and abilities that I will bring to an employer as a junior developer.
 
 ### User Stories
