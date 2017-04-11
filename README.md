@@ -34,10 +34,10 @@ The purpose of this project is to give the audience an brief overview of the exp
 
 ***
 
-#### Scope of Work
-1. [Wireframe](https://www.figma.com/file/BbdUatyCHzcSp22EJosiX3KT/Portfolio-Responsive)
-2. Content 
-3. Mock Up
-4. HTML/CSS
-5. Interaction
+#### Design Thinking Process
+1. Empathize-  Target audience are HR and web development professionas looking to verify my web development abilities. This page will demonstrate the ability to create functional webpages that will engage users and provide a great user experience.
+2. Define- I want to display competent, quality design and development skills with a user experience focus.
+3. Ideate- [Wireframe](https://www.figma.com/file/BbdUatyCHzcSp22EJosiX3KT/Portfolio-Responsive)
+4. Prototype- 
+5. Test- 
 
