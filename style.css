@@ -1,45 +1,97 @@
-@charset "UTF-8";
-/* CSS Document */
+/* http://meyerweb.com/eric/tools/css/reset/ 2. v2.0 | 20110126
+  License: none (public domain)
+*/
 
-main {font-family: arial, helvetica, sans-serif;
-width:1000px;
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
 }
-#menu
-{display:inline-block;
-padding:0;
-margin: 0 0 0 225px;
-color:#fff;
-white-space:nowrap;
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
 }
-#menu li {display: inline-block;
+body {
+  line-height: 1;
 }
-#menu li a
-{display:table;
-padding:0.2em 1em;
-background-color:purple;
-color:silver;
-text-decoration:none;
+ol, ul {
+  list-style: none;
 }
-#menu li a:hover
-{
-background:#08c;
-color:#fff;
+blockquote, q {
+  quotes: none;
 }
-#banner {background-color:purple;
-color:silver;
-width:800px;
-text-align:center;
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
 }
-#intro {
-background-color:silver;
-padding:1em;
-width: 800px;
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
 }
+/* Erin's Styling below */
 
+body{
+	
 }
-section {
-background-color:#f2eee2;
-padding:1em;
+header h1 {
+	text-align: left;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-size: 2em;
+	border-radius: 15px, 50px;
+	background: #626299;
+}
+header h2{
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	text-align: right;
+	background-color:#BBD4B3;
+}
+a {
+	text-decoration: none;
+	color: #382B24;
+}
+.about{
+	background-color:#CCA997;
+	display:flex;
+	padding: 15px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+.about h3{
+	text-align: center;
+	font-size: 1.5em;
+	
+}
+.roundimage{
+	border-radius: 250px;
+	padding: 15px;
+}
+.skills{
+	display: flex;
+	background-color: #996043;
+}
+.portfolio{
+	display: flex;
+	background-color: #FFF;
+}
+.social {
+	display: flex;
+	background-color:#CCA997;
 }
 
 
